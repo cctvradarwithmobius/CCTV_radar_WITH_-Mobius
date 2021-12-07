@@ -8,3 +8,6 @@ https://github.com/seunghwanly/Mobius-docker/blob/main/README.md#usage
 mobius 폴더에서 npm run dev 
 mysqlradar 폴더에서 npm run dev 로 실행
 
+작동하게 하려면 mysql에 데이터베이스를 생성하고 레이더를 저장해야함
+
+그리고 레이더와 CCTV의 프리셋 설정도 진행해야함
